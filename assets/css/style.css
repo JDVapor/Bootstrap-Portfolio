@@ -98,8 +98,8 @@ h2 {
 
 p {
   padding: 25px;
-  padding-top: 13px;
-  padding-bottom: 13px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   font-family: 'Asap', 'Arial', Helvetica, sans-serif;
   font-size: 17px;
   font-weight: normal;
@@ -125,6 +125,7 @@ p {
 
 .box {
   margin-left: 27px;
+  margin-right: 10%;
   bottom: 50px;
   padding: 5px;
   position: relative;
